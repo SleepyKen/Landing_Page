@@ -1,0 +1,11 @@
+.first-section{
+    background-color: #1f291f;
+    color: white;
+    padding: auto;
+}
+
+.header{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
